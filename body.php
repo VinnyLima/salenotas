@@ -86,7 +86,7 @@
                   </div>
                       
                   <div class="row">
-                      <div class="col col-2 linksCS"><a href="http://moodlep.ucv.edu.br/moodle/login/index.php" target="_blank">AVA - Presencial</a></div>
+                      <div class="col col-2 linksCS"><a href="http://moodlep.ucv.edu.br/moodle/login/index.php" target="_blank">AVA - Presencial 1</a></div>
                       <div class="col col-2 linksCS"><a href="moodle.ucv.edu.br/moodle/" target="_blank">AVA- Semipresencial</a>
                </div></div>
                   </div> 
