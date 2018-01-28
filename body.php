@@ -96,13 +96,7 @@
         <div class="row">
             <div class="col col-2">
                 <div class="teste">
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- sale notas -->
-                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7610504946656571" data-ad-slot="8817151192" data-ad-format="auto"></ins>
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-
-                    </script>
+                    
 
                 </div>
             </div>
