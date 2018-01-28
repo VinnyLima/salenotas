@@ -1,5 +1,3 @@
-<?php include_once("analyticstracking.php") ?> <!---->
-
 <?php include_once("header.php");?> <!--Faz a inclusão do arquivo do header.php-->
 
 <?php include_once("body.php");?><!--faz a inclusão do arquivo body php-->
